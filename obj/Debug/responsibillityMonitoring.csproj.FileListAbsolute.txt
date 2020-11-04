@@ -1,0 +1,17 @@
+C:\Users\SC9954\source\repos\responsibillityMonitoring\responsibillityMonitoring\bin\Debug\responsibillityMonitoring.exe.config
+C:\Users\SC9954\source\repos\responsibillityMonitoring\responsibillityMonitoring\bin\Debug\responsibillityMonitoring.exe
+C:\Users\SC9954\source\repos\responsibillityMonitoring\responsibillityMonitoring\bin\Debug\responsibillityMonitoring.pdb
+C:\Users\SC9954\source\repos\responsibillityMonitoring\responsibillityMonitoring\obj\Debug\responsibillityMonitoring.csprojAssemblyReference.cache
+C:\Users\SC9954\source\repos\responsibillityMonitoring\responsibillityMonitoring\obj\Debug\responsibillityMonitoring.csproj.CoreCompileInputs.cache
+C:\Users\SC9954\source\repos\responsibillityMonitoring\responsibillityMonitoring\obj\Debug\responsibillityMonitoring.exe
+C:\Users\SC9954\source\repos\responsibillityMonitoring\responsibillityMonitoring\obj\Debug\responsibillityMonitoring.pdb
+C:\Users\SC9954\source\repos\responsibillityMonitoring\responsibillityMonitoring\bin\Debug\STADACIS.dll
+C:\Users\SC9954\source\repos\responsibillityMonitoring\responsibillityMonitoring\bin\Debug\Devart.Data.MySql.dll
+C:\Users\SC9954\source\repos\responsibillityMonitoring\responsibillityMonitoring\bin\Debug\Devart.Data.dll
+C:\Users\SC9954\source\repos\responsibillityMonitoring\responsibillityMonitoring\bin\Debug\STADACIS.pdb
+C:\Users\SC9954\source\repos\responsibillityMonitoring\responsibillityMonitoring\bin\Debug\Devart.Data.MySql.xml
+C:\Users\SC9954\source\repos\responsibillityMonitoring\responsibillityMonitoring\obj\Debug\responsibillityMonitoring.csproj.CopyComplete
+C:\Users\SC9954\source\repos\responsibillityMonitoring\responsibillityMonitoring\bin\Debug\responsibillityMonitoring.exe.manifest
+C:\Users\SC9954\source\repos\responsibillityMonitoring\responsibillityMonitoring\bin\Debug\responsibillityMonitoring.application
+C:\Users\SC9954\source\repos\responsibillityMonitoring\responsibillityMonitoring\obj\Debug\responsibillityMonitoring.exe.manifest
+C:\Users\SC9954\source\repos\responsibillityMonitoring\responsibillityMonitoring\obj\Debug\responsibillityMonitoring.application
